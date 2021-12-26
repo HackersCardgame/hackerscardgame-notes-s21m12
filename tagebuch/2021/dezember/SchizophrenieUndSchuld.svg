@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5144501"
-     inkscape:cx="542.44113"
-     inkscape:cy="380.66623"
+     inkscape:cx="725.34581"
+     inkscape:cy="275.01732"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -464,7 +464,7 @@
          style="stroke-width:0.162341"
          x="38.142742"
          y="144.52411"
-         id="tspan57348">d2: verursachte schäden</tspan><tspan
+         id="tspan57348">d2: verursachte schäden / stress</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.162341"
          x="38.142742"
@@ -683,5 +683,21 @@
          x="117.36691"
          y="56.200714"
          id="tspan173770">zu wenig gebildet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.85561px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0963905"
+       x="152.16562"
+       y="130.11087"
+       id="text188053"><tspan
+         sodipodi:role="line"
+         id="tspan188051"
+         style="stroke-width:0.0963905"
+         x="152.16562"
+         y="130.11087">Schizophrenie</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0963905"
+         x="152.16562"
+         y="133.38814"
+         id="tspan188055">und bisschen Autismus spekrtrum</tspan></text>
   </g>
 </svg>
