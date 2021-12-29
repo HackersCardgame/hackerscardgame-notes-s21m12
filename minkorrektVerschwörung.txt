@@ -1,10 +1,17 @@
-Halli Hallo @Garfonso 
+Halli Hallo @Garfonso
 danke für die ausführliche Antwort
 
-Ich habe einen sehr starken Spieltrieb und würde gerne den Raben "choosen plaintext'en" (Verb von Choosen Plaintext Attack) [1], so etwas wäre logischerweise komplett arschköpfig [2] wenn es sich um eine echte Person handeln würde mit einer Erkrankung aus dem Formenkreis von ICD10 F70-F79.
+Ich habe einen sehr starken Spieltrieb und würde gerne den /Raben "choosen plaintext'en" [1], so etwas wäre logischerweise komplett arschköpfig [2] wenn es sich um eine echte Person handeln würde mit einer Erkrankung aus zB dem Formenkreis von ICD10 F70-F79.
+
+Somit wäre meine Frage: Darf man das hier?
+
+Reihold Remscheid sagt zwar im Kontext einer Studie die er mal vorgestellt hat nichts zum Innenleben von afaik Super Mario sagen, bei dieser Studie bemängle ich aber, dass das Menschliche Gehirn das sehr wohl kann weil es auf bereits vorhandenes Konzeptwissen verfügt. Aber ich weiss gar nicht mehr welche Paper das war.
+
+Zum "hm? Wo ist da nen Adjektiv? *grübel*":
+
+ich kenne mich ein bisschen aus mit Code und mir deucht der /Rabe verwurschtelt aber macht Fälle und Deklinationen falsch was ein weiteres Indiz auf sein Innenleben wäre. Und JA stattgegeben schweizer verwurschteln Deutsch auch häufiger mal.
 
 
-
-[1] und um meine Ungenauigkeit in der Formulierung auch grad auszuräumen, eigentlich wäre ein Footprinting / Ennumeration des innenlebens des Raben gemeint, aber Choosen Plaintexts tönt cooler und ist ja irgendwie artverwandt. 
+[1] Verb von Choosen Plaintext Attack, und um meine Ungenauigkeit in der Formulierung auch grad auszuräumen, eigentlich wäre ein Footprinting / Ennumeration des Innenlebens des Raben gemeint, aber Choosen Plaintexts tönt cooler und ist ja irgendwie artverwandt. 
 
 [2] ich bin Schweizer gemeint ist Adjektiv von Arschkopf
