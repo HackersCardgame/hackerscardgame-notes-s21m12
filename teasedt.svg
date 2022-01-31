@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="teasedt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.1524866"
+     inkscape:cx="653.10266"
+     inkscape:cy="488.50249"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text38245" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.586166"
+       y="124.35072"
+       id="text1772"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Untitled1;-inkscape-font-specification:Untitled1;stroke-width:0.264583"
+         x="87.586166"
+         y="124.35072"
+         id="tspan1776" /></text>
+    <g
+       aria-label="Test"
+       id="text38245"
+       style="font-size:10.5833px;stroke-width:0.264583">
+      <path
+         d="m 114.49781,127.53867 h 6.52671 v 0.8785 h -2.73884 v 6.83677 h -1.04903 v -6.83677 h -2.73884 z"
+         id="path39703"
+         style="stroke:#000000;fill:none" />
+      <path
+         d="m 125.14312,132.12235 v 0.46509 h -4.37181 q 0.062,0.98185 0.58911,1.49861 0.53226,0.5116 1.47794,0.5116 0.54777,0 1.05936,-0.13436 0.51677,-0.13436 1.02319,-0.40308 v 0.89917 q -0.51159,0.21704 -1.04902,0.33073 -0.53744,0.11369 -1.09037,0.11369 -1.38493,0 -2.19625,-0.80615 -0.80614,-0.80615 -0.80614,-2.18074 0,-1.4211 0.7648,-2.25309 0.76998,-0.83715 2.07222,-0.83715 1.16789,0 1.84484,0.75447 0.68213,0.74931 0.68213,2.04121 z m -0.95084,-0.27905 q -0.0103,-0.78031 -0.43925,-1.24539 -0.42375,-0.46509 -1.12654,-0.46509 -0.79582,0 -1.27641,0.44958 -0.47542,0.44959 -0.54776,1.26607 z"
+         id="path39705"
+         style="stroke:#000000;fill:none" />
+      <path
+         d="m 130.39343,129.63673 v 0.89916 q -0.40307,-0.2067 -0.83715,-0.31005 -0.43409,-0.10336 -0.89917,-0.10336 -0.70797,0 -1.06453,0.21704 -0.3514,0.21704 -0.3514,0.65112 0,0.33073 0.25321,0.52193 0.25322,0.18604 1.01802,0.35657 l 0.32557,0.0724 q 1.01285,0.21704 1.4366,0.61495 0.42891,0.39274 0.42891,1.1007 0,0.80615 -0.64079,1.2764 -0.63562,0.47026 -1.75182,0.47026 -0.46509,0 -0.97152,-0.093 -0.50126,-0.0879 -1.05936,-0.26872 v -0.98185 q 0.5271,0.27389 1.03869,0.41342 0.5116,0.13435 1.01286,0.13435 0.67179,0 1.03352,-0.22737 0.36174,-0.23255 0.36174,-0.65112 0,-0.38758 -0.26355,-0.59428 -0.25838,-0.20671 -1.14205,-0.39791 l -0.33073,-0.0775 q -0.88366,-0.18604 -1.2764,-0.56844 -0.39274,-0.38757 -0.39274,-1.05936 0,-0.81649 0.57878,-1.26091 0.57877,-0.44441 1.6433,-0.44441 0.5271,0 0.99218,0.0775 0.46509,0.0775 0.85783,0.23255 z"
+         id="path39707"
+         style="stroke:#000000;fill:none" />
+      <path
+         d="m 133.15811,127.82289 v 1.6433 h 1.95853 v 0.73898 h -1.95853 v 3.14191 q 0,0.70797 0.1912,0.9095 0.19637,0.20154 0.79065,0.20154 h 0.97668 v 0.79582 h -0.97668 q -1.1007,0 -1.51928,-0.40825 -0.41858,-0.41341 -0.41858,-1.49861 v -3.14191 h -0.69763 v -0.73898 h 0.69763 v -1.6433 z"
+         id="path39709"
+         style="stroke:#000000;fill:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0700042"
+         x="110.10271"
+         y="151.51865"
+         id="text40253"><tspan
+           sodipodi:role="line"
+           id="tspan40251"
+           style="stroke-width:0.0700042"
+           x="110.10271"
+           y="151.51865">test Twaw</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27;stroke-miterlimit:4;stroke-dasharray:none"
+         x="147.37704"
+         y="131.76643"
+         id="text43491"><tspan
+           sodipodi:role="line"
+           id="tspan43489"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Savate;-inkscape-font-specification:'Savate Bold';fill:#ffffff;stroke:#000000;stroke-width:0.27;stroke-miterlimit:4;stroke-dasharray:none"
+           x="147.37704"
+           y="131.76643">Test</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27;stroke-miterlimit:4;stroke-dasharray:none"
+         x="137.86998"
+         y="118.24657"
+         id="text43491-7"><tspan
+           sodipodi:role="line"
+           id="tspan43489-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold';fill:#ffffff;stroke:#000000;stroke-width:0.27;stroke-miterlimit:4;stroke-dasharray:none"
+           x="137.86998"
+           y="118.24657">Und Test</tspan></text>
+    </g>
+  </g>
+</svg>

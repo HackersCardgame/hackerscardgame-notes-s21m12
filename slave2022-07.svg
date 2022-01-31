@@ -4,7 +4,7 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="slave2022-06.svg"
+   sodipodi:docname="slave2022-07.svg"
    version="1.1"
    id="svg8464"
    viewBox="0 0 1000 1000"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21813913"
-     inkscape:cx="-573.02878"
-     inkscape:cy="607.41051"
+     inkscape:zoom="0.87255652"
+     inkscape:cx="351.83967"
+     inkscape:cy="321.46915"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -37,11 +37,12 @@
      inkscape:window-maximized="1"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:guide-bbox="true">
     <sodipodi:guide
        id="guide_baseline"
        inkscape:label="baseline"
-       position="408,392"
+       position="650.9607,391.44343"
        orientation="0,1" />
     <sodipodi:guide
        id="guide_ascender"
@@ -63,6 +64,17 @@
        inkscape:label="descender"
        position="0,28"
        orientation="0,1" />
+    <sodipodi:guide
+       position="712.84781,945"
+       orientation="-1,0"
+       id="guide29942"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="650.9607,858"
+       orientation="1,0"
+       id="guide29944" />
   </sodipodi:namedview>
   <defs
      id="defs4">
